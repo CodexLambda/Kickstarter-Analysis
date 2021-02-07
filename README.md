@@ -1,4 +1,4 @@
-# Kickstarter
+# Kickstarter Analysis
 Analysis of kickstarter data from Jan 2016 to Dec 2019.
 
 This project focuses on identifying factors that contributed to the performance of projects listed on Kickstarter.com. Campaign success is the main drive of the project, allowing for flexible segmentation of data, based on independent variables. 
